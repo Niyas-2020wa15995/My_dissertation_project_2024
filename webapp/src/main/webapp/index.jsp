@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>*****SignUp*****</h1>
+    <h1>Sample sign  up page for bits dissertation Work by Mohammed Niyas 2020wa15995</h1>
     <p>Please fill the below form to create an account.</p>
     <hr>
      
@@ -30,5 +30,5 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
-      <h1>*****New change for last fixes*****</h1>
+      <h1>Testing a new build in jenkins with docker</h1>
 </form>
