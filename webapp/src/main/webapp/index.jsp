@@ -30,5 +30,5 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
-      <h1>Testing a new build in jenkins with Ansible where ansible-playbook will create the docker image and push it to docker hub and deploy is automatically to the docker server</h1>
+      <h1>Testing a new build in jenkins with Ansible where ansible-playbook will create docker image and push it to docker-hub and deploy is automatically to the docker server</h1>
 </form>
