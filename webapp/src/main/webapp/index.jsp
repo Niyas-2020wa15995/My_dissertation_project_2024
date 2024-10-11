@@ -30,5 +30,5 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
-      <h1>Final testing of complete DevOps Pipeline</h1>
+      <h1>Final testing of complete DevOps Pipeline </h1>
 </form>
